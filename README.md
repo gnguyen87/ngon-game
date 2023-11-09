@@ -5,11 +5,26 @@ An interactive, multi-level game that introduces players to Vietnamese cuisine
 
 <t> <t> Ngon is an interactive, multi-level game that invites users to play and learn more about Vietnamese cuisine at the same time. Using Tkinter to create its Graphic User Interface program, Ngon offers users a tailored experience by letting them create their own user name and choose their own level. A unique Vietnamese dish unraveled to users at every level, Ngon gives users information about the dish (its ingredients as well as its historical background) before taking them to the game screen, in which they must click on the correct icons of ingredients among many flying across the screen to win.
 
+<p align="center">
+<img width="500" alt="image" src="https://github.com/gnguyen87/ngon-game/assets/134335069/dce32a44-932a-4560-9f76-ed1224b6e2d9">
+
 By opening the “Click_Add_Drop.py” file and running it on Python, you will start the game. Every instruction on how to continue (“Next” button), choose ('Easy", ”Medium”, ”Hard” buttons), and quit (“Quit” button) the game is written on the screen, allowing for easy user access.
+
+<p align="center">
+<img width="400" alt="image" src="https://github.com/gnguyen87/ngon-game/assets/134335069/3644b1ee-4b45-435f-9a78-d724d6240cef">
+<img width="400" alt="image" src="https://github.com/gnguyen87/ngon-game/assets/134335069/520ddd99-e94e-4acb-b1f6-78ac69942a7d">
+
 
 Once the game starts, you would be asked to enter your name. By clicking the “Next” button one canvas after another, you will be instructed on the main objectives of the game.
 
+<p align="center">
+<img width="400" alt="Screenshot 2023-11-09 at 15 58 51" src="https://github.com/gnguyen87/ngon-game/assets/134335069/8f7ea05d-6419-43e6-b766-b62684d1db71">
+<img width="400" alt="Screenshot 2023-11-09 at 16 01 36" src="https://github.com/gnguyen87/ngon-game/assets/134335069/474cccce-0a49-4fca-8290-c1debe3da25c">
+
+
 After hitting “Next”, if you choose the “Easy” level, the background information of “bánh cuốn" will appear, introducing its origins as well as how it is eaten. Then, the Next button will bring you to the next phase of the game in which you can familiarize yourself with the main ingredients of bánh cuốn which you will have to remember and choose correctly afterwards. Finally, after you're ready to play and hit “Next", you will play the game by clicking on the correct flying ingredients to have it automatically added to the basket. If you click on the wrong ingredient, you will automatically lose and be carried to another screen where you can either choose to “Play again" or “Quit”. If your basket successfully has all the correct ingredients, the game will end with a congratulations message. You can also choose to “Play again" or “Quit” the game. Hitting the “Play again” button will bring you back to the screen with the Level menu, while quitting will close the game completely.
+
+
 
 ## Program’s Contents
 ### Function summary
