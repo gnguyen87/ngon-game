@@ -1,5 +1,5 @@
 # ngon-game
-An interactive, multi-level game that introduces players to Vietnamese cuisine
+A click-and-drop multi-level game introducing players to Vietnamese cuisine using the Python-Tkinter GUI toolkit.
 
 ## User’s Manual
 
