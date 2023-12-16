@@ -66,4 +66,5 @@ As future extensions, there is a couple of things we would like to accomplish. F
 
 ## Bibliography
 Ernst, E. (2022). The tkinter module for Graphical User Interfaces (GUIs). Https://Docs.google.com/Document/D/1S6xWzzMEF30FI0WBbxxZTI4m335kiA_wEVvuLztkNfE/Edit#Heading=H.el7lsoxdwyyd. https://docs.google.com/document/d/1S6xWzzMEF30FI0WBbxxZTI4m335kiA_wEVvuLztkNfE/edit#heading=h.el7lsoxdwyyd
+
 Miller, B., Ranum, D., Elkner, J., Wentworth, P., Downey, A., Meyers, C., & Mitchell, D. (2013). How to Think like a Computer Scientist: Interactive Edition. Runestone.academy. https://runestone.academy/ns/books/published/thinkcspy/index.html
